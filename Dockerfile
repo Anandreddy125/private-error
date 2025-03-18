@@ -25,4 +25,3 @@ RUN apt-get update -y && \
     rm -rf /var/lib/apt/lists/*
 
 CMD [ "bash", "./run.sh"]
-fghjk
