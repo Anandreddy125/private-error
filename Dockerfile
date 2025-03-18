@@ -1,7 +1,7 @@
 
 #Deriving the latest base image
 FROM node:16.17.0-bullseye-slim
-uuuu
+
 # Any working directory can be chosen as per choice like '/' or '/home' etc
 WORKDIR /app
 
