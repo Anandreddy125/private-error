@@ -1,6 +1,4 @@
 
-# syntax=docker/dockerfile:1
-
 #Deriving the latest base image
 FROM node:16.17.0-bullseye-slim
 
