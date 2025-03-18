@@ -8,7 +8,7 @@ WORKDIR /app
 
 COPY .env.example .env
 
-COPY . .
+COPY . .  
 
 RUN apt-get update -y && \
     apt-get install -y --no-install-recommends software-properties-common gnupg2 wget && \
