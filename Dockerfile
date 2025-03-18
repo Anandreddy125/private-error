@@ -25,4 +25,4 @@ RUN apt-get update -y && \
     php artisan key:generate && \
     rm -rf /var/lib/apt/lists/*
 CMD [ "bash", "./run.sh"]
-----
+
