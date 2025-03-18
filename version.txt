@@ -1,1 +1,1 @@
-1.0.5-commitf75536c
+1.0.6-commit3e5411e
