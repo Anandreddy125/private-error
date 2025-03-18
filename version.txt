@@ -1,1 +1,1 @@
-1.0.5-commit0baff52
+1.0.6-commit9dac92e
