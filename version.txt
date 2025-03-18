@@ -1,1 +1,1 @@
-1.2.1-commitf3a74a6
+1.2.2-commitedc8ebb
