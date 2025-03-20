@@ -21,3 +21,7 @@ RUN apt-get update -y && \
     rm -rf /var/lib/apt/lists/*
     
 CMD [ "bash", "./run.sh"]
+
+
+
+agn.kgnb;kzelsg;klzsexvciuh; sgdxriyk bsplixzk,
