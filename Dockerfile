@@ -18,7 +18,6 @@ RUN apt-get update -y && \
     composer install && \
     npm install && \
     php artisan key:generate && \
-    rm -rf /var/lib/apt/lists/*
-    
+    rm -rf /var/lib/apt/lists/
 CMD [ "bash", "./run.sh"]
 
