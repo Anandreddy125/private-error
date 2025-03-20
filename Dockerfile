@@ -24,4 +24,3 @@ CMD [ "bash", "./run.sh"]
 
 
 
-agn.kgnb;kzelsg;klzsexvciuh; sgdxriyk bsplixzk,
